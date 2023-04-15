@@ -1,0 +1,29 @@
+double b;
+/* Объявление 
+класса*/
+class myclass{
+	double L, b, c;
+	bool f=true, f2, f3=false;
+	
+	void myClass(){
+		f=true;
+		L=4+100/4+(L-15)*5-L-(((7)));
+	}
+	void beep(bool f1)
+	{
+		double b; { double b, bbbb; }
+		f=f1;
+	}
+	void go(double l1){
+		L=(L+1)/5*l1;
+		beep(true);
+	}
+}
+//Main
+void main(){
+{
+	myclass m;
+	//m.go();
+	double D=4+100/4+(15)*5;
+	double f=5+D;
+}

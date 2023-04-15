@@ -1,0 +1,22 @@
+﻿Сборка начата 20.11.2022 21:23:25.
+     1>Проект "D:\Сохранено\Desktop\pi92\7 семестр\компиляторы\лр9\Semantic\Semantic\Semantic.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /W0 /WX- /sdl- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Semantic.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ScanClass.cpp
+         Оптимизирующий компилятор Microsoft (R) C/C++ версии 18.00.21005.1 для x86
+         (C) Корпорация Майкрософт (Microsoft Corporation).  Все права защищены.
+         
+         cl /c /ZI /W0 /WX- /sdl- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Semantic.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ScanClass.cpp
+         
+         ScanClass.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Сохранено\Desktop\pi92\7 семестр\компиляторы\лр9\Semantic\Debug\Semantic.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Сохранено\Desktop\pi92\7 семестр\компиляторы\лр9\Semantic\Debug\Semantic.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Сохранено\Desktop\pi92\7 семестр\компиляторы\лр9\Semantic\Debug\Semantic.lib" /MACHINE:X86 Debug\Analisator.obj
+         Debug\ScanClass.obj
+         Debug\Semantic.obj
+         Debug\SemanticTree.obj
+         Debug\stdafx.obj
+         Semantic.vcxproj -> D:\Сохранено\Desktop\pi92\7 семестр\компиляторы\лр9\Semantic\Debug\Semantic.exe
+     1>Сборка проекта "D:\Сохранено\Desktop\pi92\7 семестр\компиляторы\лр9\Semantic\Semantic\Semantic.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:02.64
